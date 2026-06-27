@@ -1,3 +1,58 @@
+[1:02 am, 28/06/2026] Shaurya kapoor: How to Run
+
+1. Clone the repository:
+   bash
+   git clone https://github.com/shauryakapoor0807/Insurance-Claim-Cost-Analysis.git
+   
+
+2. Open the project in *RStudio*.
+
+3. Install the required packages (if not already installed):
+   R
+   install.packages(c("tidyverse", "ggplot2", "corrplot", "readr"))
+   
+
+4. Open the Insurance Claims cost analysis.Rproj file.
+
+5. Run the Insurance_Analysis.R script (or your main R script) to:
+   - Load the dataset
+   - Perform exploratory data analysis
+   - Train the linear regression model
+   - Generate plots
+   - Export predicted insurance charges
+[1:03 am, 28/06/2026] Shaurya kapoor: ## 🚀 How to Run
+
+1. Clone this repository:
+   bash
+   git clone https://github.com/shauryakapoor0807/Insurance-Claim-Cost-Analysis.git
+   
+
+2. Open the project in *RStudio* by opening:
+   
+   Insurance Claims cost analysis.Rproj
+   
+
+3. Install the required R packages (if they are not already installed):
+   R
+   install.packages(c("ggplot2", "readr", "corrplot"))
+   
+
+4. Open the r scripts folder and run:
+   
+   Insurance_Analysis.R
+   
+
+5. The script will:
+   - Load the insurance dataset
+   - Perform exploratory data analysis (EDA)
+   - Train a multiple linear regression model
+   - Generate visualizations
+   - Evaluate model performance
+   - Export predicted insurance charges to a CSV file
+
+
+
+
 ![R](https://img.shields.io/badge/R-Language-blue?logo=r)
 ![RStudio](https://img.shields.io/badge/RStudio-IDE-blue?logo=rstudio)
 ![Linear Regression](https://img.shields.io/badge/Model-Linear%20Regression-success)
