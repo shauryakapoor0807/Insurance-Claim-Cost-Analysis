@@ -1,32 +1,48 @@
-# Insurance Claims Cost Analysis
+# Insurance Claims Cost Analysis using R
 
-## Objective
-Predict insurance charges using linear regression in R.
+## Project Overview
+This project predicts medical insurance charges using Linear Regression in R. It includes exploratory data analysis, visualization, feature engineering, model evaluation, and prediction.
+
+## Dataset
+- Records: 1338
+- Features: Age, Sex, BMI, Children, Smoker, Region
+- Target Variable: Insurance Charges
 
 ## Tools Used
 - R
 - RStudio
-- readr
+- ggplot2
 - corrplot
+- readr
+- dplyr
 
-## Project Workflow
-1. Data loading
-2. Exploratory Data Analysis
-3. Missing value check
-4. Data visualization
-5. Simple Linear Regression
-6. Multiple Linear Regression
-7. Feature Importance
-8. Correlation Matrix
-9. Residual Diagnostics
-10. Prediction Evaluation
-11. Export Results
+## Workflow
+1. Data Loading
+2. Data Cleaning
+3. Missing Value Check
+4. Exploratory Data Analysis
+5. Data Visualization
+6. Linear Regression
+7. Model Evaluation
+8. Prediction
+9. Export Results
 
 ## Model Performance
 - R² = 0.75
 - RMSE = 6042
 
-## Output
-- Predicted insurance charges
-- Visualizations
-- Exported prediction CSV
+## Key Findings
+- Smoking has the largest impact on insurance charges.
+- Higher BMI increases predicted charges.
+- Older individuals generally have higher medical expenses.
+- The model explains 75% of the variation in insurance charges.
+
+## Repository Structure
+📂 data
+📂 r scripts
+📂 Plots
+📂 Report
+📄 README.md
+
+## Author
+Shaurya Kapoor
