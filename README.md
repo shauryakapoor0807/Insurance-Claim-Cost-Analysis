@@ -1,3 +1,7 @@
+![R](https://img.shields.io/badge/R-Language-blue?logo=r)
+![RStudio](https://img.shields.io/badge/RStudio-IDE-blue?logo=rstudio)
+![Linear Regression](https://img.shields.io/badge/Model-Linear%20Regression-success)
+
 # Insurance Claims Cost Analysis using R
 
 ## Project Overview
